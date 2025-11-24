@@ -1,0 +1,59 @@
+# ملف تمويل المشروع - FUNDING.yml
+# يُستخدم لعرض خيارات الدعم المالي في مستودعاتك على GitHub
+
+# معلومات مهمة:
+# - ضع هذا الملف في المسار: .github/FUNDING.yml
+# - سيظهر زر "Sponsor" في مستودعاتك
+# - يمكنك تفعيل منصات متعددة للدعم
+
+# ==================================================
+# 🛡️ المحارب الرقمي - asrar-mared
+# Cybersecurity Professional | Digital Warrior ⚔️
+# ==================================================
+
+# GitHub Sponsors
+# ضع اسم المستخدم الخاص بك على GitHub
+github: asrar-mared
+
+# Patreon
+# إذا كان لديك حساب على Patreon، ضع اسم المستخدم
+# patreon: your_patreon_username
+
+# Open Collective
+# إذا كنت تستخدم Open Collective
+# open_collective: your_project_name
+
+# Ko-fi
+# منصة شهيرة للدعم السريع
+# ko_fi: your_kofi_username
+
+# Tidelift
+# للمشاريع المفتوحة المصدر الاحترافية
+# tidelift: npm/your-package-name
+
+# Community Bridge
+# منصة Linux Foundation للتمويل
+# community_bridge: your_project_name
+
+# Liberapay
+# منصة أوروبية للدعم المتكرر
+# liberapay: your_username
+
+# IssueHunt
+# للحصول على أموال مقابل حل المشاكل
+# issuehunt: your_username
+
+# Otechie
+# منصة للحصول على دعم مقابل الاستشارات
+# otechie: your_username
+
+# LFX Crowdfunding
+# منصة Linux Foundation الجديدة
+# lfx_crowdfunding: your_project_name
+
+# روابط مخصصة (يمكنك إضافة حتى 4 روابط)
+custom:
+  - "https://nike49424.wordpress.com"
+  - "https://youtube.com/shorts/wCwJpt5MvHs?si=vW6sGcA96H0n45v2"
+  - "https://paypal.me/nike49424" # أضف رابط PayPal الخاص بك
+  
